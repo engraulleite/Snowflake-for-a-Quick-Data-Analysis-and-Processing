@@ -12,6 +12,6 @@ Snowflake is one of the Modern Data Stack tools. It's allows us to do quick anal
 
 ## Architecture Diagram:
 
-<img src="/Architecture Diagram.png">
+<img src="/Architecture_Diagram.png">
 
 I made this diagram using [Diagrams.net](https://app.diagrams.net/)
